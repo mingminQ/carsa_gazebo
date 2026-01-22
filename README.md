@@ -23,7 +23,7 @@ The following command should be executed from the **carsa_gazebo workspace root*
 아래 명령어는 **carsa_gazebo 워크스페이스 루트**에서 실행된다.  
 
 ``` bash
-$ rosdep install --rosdistro humble --from-paths src --ignore-src -r -y
+$ rosdep install --rosdistro humble --from-paths . --ignore-src -r -y
 ```
 
 </br>
