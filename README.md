@@ -1,3 +1,6 @@
+![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu_22.04-%23E95420?style=flat&logo=ubuntu&logoColor=white)
+![ROS Humble](https://img.shields.io/badge/ROS_Humble-%2322314E?style=flat&logo=ros&logoColor=white)
+
 # CARSA Creative Mobility Gazebo Simulation
 
 ⚠️ **To use this package, the [erp42_ros](https://github.com/mingminQ/erp42_ros) package must be built and sourced in advance.**  
